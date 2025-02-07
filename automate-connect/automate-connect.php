@@ -136,3 +136,4 @@ function ac_plugin_activation_tbl() {
     $wpdb->query($sql_atte_log);
     $wpdb->query($sql_ghl_integ_form);
 }
+
